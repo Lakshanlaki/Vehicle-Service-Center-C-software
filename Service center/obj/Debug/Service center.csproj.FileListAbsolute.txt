@@ -1,0 +1,90 @@
+C:\Users\Laki\Desktop\SFF\Service center\Service center\bin\Debug\Service center.exe.config
+C:\Users\Laki\Desktop\SFF\Service center\Service center\bin\Debug\Service center.exe
+C:\Users\Laki\Desktop\SFF\Service center\Service center\bin\Debug\Service center.pdb
+C:\Users\Laki\Desktop\SFF\Service center\Service center\obj\Debug\Service center.csprojResolveAssemblyReference.cache
+C:\Users\Laki\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.login.resources
+C:\Users\Laki\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.Main.resources
+C:\Users\Laki\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.Properties.Resources.resources
+C:\Users\Laki\Desktop\SFF\Service center\Service center\obj\Debug\Service center.csproj.GenerateResource.Cache
+C:\Users\Laki\Desktop\SFF\Service center\Service center\obj\Debug\Service center.exe
+C:\Users\Laki\Desktop\SFF\Service center\Service center\obj\Debug\Service center.pdb
+C:\Users\Laki\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.Sales.resources
+C:\Users\Laki\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.Stocks.resources
+C:\Users\Laki\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.orders.resources
+C:\Users\Laki\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.Service_Packages.resources
+C:\Users\Laki\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.Orders_table.resources
+C:\Users\Laki\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.Sales_Table.resources
+C:\Users\Laki\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.Stock_Table.resources
+C:\Users\Laki\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.payment.resources
+C:\Users\Laki\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.payment_table.resources
+C:\Users\Laki\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.Worker.resources
+C:\Users\Laki\Desktop\SFF\Service center\Service center\bin\Debug\service - Copy.mdf
+C:\Users\Laki\Desktop\SFF\Service center\Service center\bin\Debug\service - Copy_log.ldf
+C:\Users\ashin\Desktop\SFF\Service center\Service center\bin\Debug\service - Copy.mdf
+C:\Users\ashin\Desktop\SFF\Service center\Service center\bin\Debug\service - Copy_log.ldf
+C:\Users\ashin\Desktop\SFF\Service center\Service center\bin\Debug\Service center.exe.config
+C:\Users\ashin\Desktop\SFF\Service center\Service center\bin\Debug\Service center.exe
+C:\Users\ashin\Desktop\SFF\Service center\Service center\bin\Debug\Service center.pdb
+C:\Users\ashin\Desktop\SFF\Service center\Service center\obj\Debug\Service center.csprojAssemblyReference.cache
+C:\Users\ashin\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.login.resources
+C:\Users\ashin\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.Main.resources
+C:\Users\ashin\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.Orders_table.resources
+C:\Users\ashin\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.orders.resources
+C:\Users\ashin\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.payment_table.resources
+C:\Users\ashin\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.payment.resources
+C:\Users\ashin\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.Properties.Resources.resources
+C:\Users\ashin\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.Sales_Table.resources
+C:\Users\ashin\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.Sales.resources
+C:\Users\ashin\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.Service_Packages.resources
+C:\Users\ashin\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.Stock_Table.resources
+C:\Users\ashin\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.Stocks.resources
+C:\Users\ashin\Desktop\SFF\Service center\Service center\obj\Debug\Service_center.Worker.resources
+C:\Users\ashin\Desktop\SFF\Service center\Service center\obj\Debug\Service center.csproj.GenerateResource.cache
+C:\Users\ashin\Desktop\SFF\Service center\Service center\obj\Debug\Service center.csproj.CoreCompileInputs.cache
+C:\Users\ashin\Desktop\SFF\Service center\Service center\obj\Debug\Service center.exe
+C:\Users\ashin\Desktop\SFF\Service center\Service center\obj\Debug\Service center.pdb
+C:\Users\ashin\Desktop\Shenara Auto Service\Service center\Service center\bin\Debug\Service center.exe.config
+C:\Users\ashin\Desktop\Shenara Auto Service\Service center\Service center\bin\Debug\Service center.exe
+C:\Users\ashin\Desktop\Shenara Auto Service\Service center\Service center\bin\Debug\Service center.pdb
+C:\Users\ashin\Desktop\Shenara Auto Service\Service center\Service center\obj\Debug\Service center.csprojAssemblyReference.cache
+C:\Users\ashin\Desktop\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.login.resources
+C:\Users\ashin\Desktop\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.Main.resources
+C:\Users\ashin\Desktop\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.Orders_table.resources
+C:\Users\ashin\Desktop\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.orders.resources
+C:\Users\ashin\Desktop\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.payment_table.resources
+C:\Users\ashin\Desktop\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.payment.resources
+C:\Users\ashin\Desktop\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.Properties.Resources.resources
+C:\Users\ashin\Desktop\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.Sales_Table.resources
+C:\Users\ashin\Desktop\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.Sales.resources
+C:\Users\ashin\Desktop\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.Service_Packages.resources
+C:\Users\ashin\Desktop\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.Stock_Table.resources
+C:\Users\ashin\Desktop\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.Stocks.resources
+C:\Users\ashin\Desktop\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.Worker.resources
+C:\Users\ashin\Desktop\Shenara Auto Service\Service center\Service center\obj\Debug\Service center.csproj.GenerateResource.cache
+C:\Users\ashin\Desktop\Shenara Auto Service\Service center\Service center\obj\Debug\Service center.csproj.CoreCompileInputs.cache
+C:\Users\ashin\Desktop\Shenara Auto Service\Service center\Service center\obj\Debug\Service center.exe
+C:\Users\ashin\Desktop\Shenara Auto Service\Service center\Service center\obj\Debug\Service center.pdb
+E:\Shenara Auto Service\Service center\Service center\bin\Debug\Service center.exe.config
+E:\Shenara Auto Service\Service center\Service center\bin\Debug\Service center.exe
+E:\Shenara Auto Service\Service center\Service center\bin\Debug\Service center.pdb
+E:\Shenara Auto Service\Service center\Service center\obj\Debug\Service center.csprojAssemblyReference.cache
+E:\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.login.resources
+E:\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.Main.resources
+E:\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.Orders_table.resources
+E:\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.orders.resources
+E:\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.payment_table.resources
+E:\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.payment.resources
+E:\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.Properties.Resources.resources
+E:\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.Sales_Table.resources
+E:\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.Sales.resources
+E:\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.Service_Packages.resources
+E:\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.Stock_Table.resources
+E:\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.Stocks.resources
+E:\Shenara Auto Service\Service center\Service center\obj\Debug\Service_center.Worker.resources
+E:\Shenara Auto Service\Service center\Service center\obj\Debug\Service center.csproj.GenerateResource.cache
+E:\Shenara Auto Service\Service center\Service center\obj\Debug\Service center.csproj.CoreCompileInputs.cache
+E:\Shenara Auto Service\Service center\Service center\obj\Debug\Service center.exe
+E:\Shenara Auto Service\Service center\Service center\obj\Debug\Service center.pdb
+H:\Shenara Auto Service\Service center\Service center\bin\Debug\Service center.exe.config
+H:\Shenara Auto Service\Service center\Service center\obj\Debug\Service center.exe
+H:\Shenara Auto Service\Service center\Service center\obj\Debug\Service center.pdb
